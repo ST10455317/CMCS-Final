@@ -1,0 +1,11 @@
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\bin\Debug\CyberAwarenessGUI.exe.config
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\bin\Debug\CyberAwarenessGUI.exe
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\bin\Debug\CyberAwarenessGUI.pdb
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.csproj.AssemblyReference.cache
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.form.resources
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.Properties.Resources.resources
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.csproj.GenerateResource.cache
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.exe
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.pdb
+C:\Users\RC_Student_Lab\source\repos\CyberAwarenessGUI\obj\Debug\CyberAwarenessGUI.exe.config
